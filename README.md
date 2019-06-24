@@ -16,3 +16,5 @@
   This is classic arcade game design with just HTML, CSS and JS. Here I used game loop engine and canvas to make enemy and vehicle (bugs) move smoothly.
 
 ## Screen Shots
+1. Game
+![game](./frogger-game/frogger-game.png)
